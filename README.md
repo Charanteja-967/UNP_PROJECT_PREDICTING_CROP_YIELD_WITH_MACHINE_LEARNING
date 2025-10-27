@@ -13,4 +13,4 @@ The results demonstrate that machine learning can serve as a valuable decision-s
 
 While the model performed well, it faces challenges related to data quality, regional limitations, and model generalization. Future work includes integrating soil data, remote sensing (NDVI), and deep learning for improved accuracy and scalability.
 
-Presentation:https://1drv.ms/p/c/07e85e9eda6b5cce/EXh4oClietZJqWmDzeIGFEIBSWx5NCnrQwwG0bZ7xkXEtA?e=kyY7W7
+Presentation: https://1drv.ms/p/c/07e85e9eda6b5cce/ESiwxvX0-xlOkn4z7leul00BtA2KppQtZvqafD9UcDm5aA?e=2hxAle
